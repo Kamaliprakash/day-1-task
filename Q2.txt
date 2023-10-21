@@ -1,0 +1,17 @@
+Write a blog about objects and its internal representation in Javascript
+
+=> Objects in JavaScript are data containers. 
+
+=> They are made up of key-value pairs, with the key being a unique identifier (property) and the value being any data type.
+
+Dot notation or bracket notation can be used to access and modify properties.
+
+=> Objects can also have methods, which are associated functions.
+
+=> Methods can use the properties of an object to perform actions or calculations.
+
+=> JavaScript objects offer various methods to structure and manipulate data.
+
+=> They are a basic data type in JavaScript and are commonly used in programming.
+
+=> Understanding how objects are internally represented aids in effective JavaScript programming.

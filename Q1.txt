@@ -1,0 +1,22 @@
+Write a blog on Difference between HTTP1.1 vs HTTP2
+
+HTTP1.1:-
+
+
+    => It works in text format.
+
+    => There is a head of line blocking, which blocks all requests behind it until it does not receives all of its resources.
+
+    => It uses the requested resource. Inlining for use with multiple pages
+
+    => It compresses data automatically.
+
+HTTP 2:- 
+
+    => It operates on the binary protocol.
+
+    => It supports multiplexing, requiring only one TCP connection to handle multiple requests.
+
+    => It employs a PUSH frame by the server, which collects all multiple pages. 
+
+    => It compresses data using HPACK.
